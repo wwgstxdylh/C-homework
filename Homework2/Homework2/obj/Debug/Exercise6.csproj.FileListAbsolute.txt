@@ -1,0 +1,6 @@
+D:\C#learning\Homework2\Homework2\bin\Debug\Homework2.exe.config
+D:\C#learning\Homework2\Homework2\bin\Debug\Homework2.exe
+D:\C#learning\Homework2\Homework2\bin\Debug\Homework2.pdb
+D:\C#learning\Homework2\Homework2\obj\Debug\Exercise6.csproj.CoreCompileInputs.cache
+D:\C#learning\Homework2\Homework2\obj\Debug\Homework2.exe
+D:\C#learning\Homework2\Homework2\obj\Debug\Homework2.pdb

@@ -1,0 +1,7 @@
+D:\C#learning\Homework2\Exercise7\obj\Debug\Exercise7.csprojAssemblyReference.cache
+D:\C#learning\Homework2\Exercise7\obj\Debug\Exercise7.csproj.CoreCompileInputs.cache
+D:\C#learning\Homework2\Exercise7\bin\Debug\Exercise7.exe.config
+D:\C#learning\Homework2\Exercise7\bin\Debug\Exercise7.exe
+D:\C#learning\Homework2\Exercise7\bin\Debug\Exercise7.pdb
+D:\C#learning\Homework2\Exercise7\obj\Debug\Exercise7.exe
+D:\C#learning\Homework2\Exercise7\obj\Debug\Exercise7.pdb
